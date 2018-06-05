@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="entercity">Enter City Name</string>
+    <string name="submit">Search</string>
+    <string name="date">Date</string>
+    <string name="text">TextData</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="place_not_found">Place not found</string>
 </resources>
